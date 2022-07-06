@@ -1,5 +1,5 @@
 {
-  "monthly-budget": {
+  "TopLeft": {
     "title": "本月预算",
     "category": [
       {
@@ -18,7 +18,7 @@
       }
     ]
   },
-  "monthly-achievement-rate": {
+  "TopMiddle": {
     "title": "达成率",
     "category": [
       {
@@ -37,7 +37,7 @@
       }
     ]
   },
-  "monthly-cumulative-achievement-rate": {
+  "LeftBottom": {
     "title": "当月累计达成率",
     "organization": [
       {
@@ -648,7 +648,7 @@
       }
     ]
   },
-  "monthly-actual-per-capita-production-sales": {
+  "RightTop": {
     "title": "实际人均产销",
     "category": [
       {
@@ -681,7 +681,7 @@
       }
     ]
   },
-  "yearly-employee-efficiency-trend": {
+  "RightBottom": {
     "title": "人效趋势图",
     "body": [
       {
